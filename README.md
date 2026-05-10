@@ -80,7 +80,7 @@ README.md           # Documentation
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-SOS-alert-system.git
+git clone https://github.com/Adithya2369/Smart-SOS-alert-system.git
 cd Smart-SOS-alert-system
 ```
 
